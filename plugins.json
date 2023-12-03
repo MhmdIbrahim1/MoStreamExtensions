@@ -5,7 +5,7 @@
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
         "fileSize": 270065,
         "status": 1,
-        "language": "eg",
+        "language": "en",
         "authors": [
             "Hexated",
             "Sora"
@@ -20,6 +20,27 @@
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "MohamedIbrahim"
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "FaselHDProvider",
+        "url": "https://raw.githubusercontent.com/yoyzo/arab/builds/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
     }
 ]
