@@ -20,7 +20,7 @@
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "name": "Server2"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
@@ -33,13 +33,14 @@
             "Hexated"
         ],
         "tvTypes": [
-            "Live"
+            "Live",
+            "TvSeries"
         ],
         "version": 20,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TimefourTv.cs3",
-        "name": "TimefourTv"
+        "name": "Sports"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
@@ -49,7 +50,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "ImZaw"
+            "Mhamed Ibrahim"
         ],
         "tvTypes": [
             "TvSeries",
