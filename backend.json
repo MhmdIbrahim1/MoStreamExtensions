@@ -1,0 +1,8 @@
+{
+    "name": "MoStream Repo",
+    "description": "MoStream Repo backup",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/plugins.json"
+    ]
+}
