@@ -3,9 +3,9 @@
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 270065,
+        "fileSize": 270522,
         "status": 1,
-        "language": "ar",
+        "language": "en",
         "authors": [
             "Hexated",
             "Sora"
@@ -16,11 +16,11 @@
             "Anime",
             "Movie"
         ],
-        "version": 199,
+        "version": 201,
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "Server2"
+        "name": "SoraStream"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
