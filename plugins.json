@@ -41,5 +41,26 @@
         "description": "Sport Live Stream",
         "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/TimefourTv.cs3",
         "name": "Sports"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MoApps"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "Server1",
+        "url": "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/FaselHDProvider.cs3",
+        "name": "Server1"
     }
 ]
