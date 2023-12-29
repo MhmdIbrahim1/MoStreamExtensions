@@ -64,6 +64,24 @@
         "name": "Server1"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 20624,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MoApps"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "AnimeiatProvider",
+        "url": "https://codeberg.org/cloudstream/arab/raw/branch/builds/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
