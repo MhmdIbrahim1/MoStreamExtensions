@@ -66,7 +66,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 19538,
         "status": 1,
         "language": "ar",
@@ -78,29 +78,46 @@
             "Movie",
             "Anime"
         ],
-        "version": 8,
+        "version": 10,
         "internalName": "MyCimaProvider",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/MyCimaProvider.cs3",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 13332,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
         "status": 1,
         "language": "ar",
         "authors": [
             "MoApps"
         ],
         "tvTypes": [
-            "Anime",
-            "AnimeMovie",
-            "OVA"
+            "TvSeries",
+            "Movie"
         ],
-        "version": 2,
-        "internalName": "AnimeBlkomProvider",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/AnimeBlkomProvider.cs3",
-        "name": "AnimeBlkomProvider"
+        "version": 5,
+        "internalName": "FajerShowProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/FajerShowProvider.cs3",
+        "name": "FajerShowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 20624,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "AnimeiatProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
     }
 ]
