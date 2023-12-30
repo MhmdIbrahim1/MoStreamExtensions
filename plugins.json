@@ -62,27 +62,6 @@
         "internalName": "FaselHD",
         "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/FaselHDProvider.cs3",
         "name": "Server1"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "MoApps"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 7,
-        "internalName": "Shahid4u",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/Shahid4uProvider.cs3",
-        "name": "Sha4u"
     }
 
 ]
