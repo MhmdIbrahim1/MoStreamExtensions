@@ -101,24 +101,5 @@
         "internalName": "AnimeBlkomProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MhmdIbrahim1/MoStreamExtensions",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "MoApps"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "Shofha",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/FajerShowProvider.cs3",
-        "name": "ShofFreeProvider"
     }
 ]
