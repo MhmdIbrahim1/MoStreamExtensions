@@ -105,7 +105,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "repositoryUrl": "https://github.com/MhmdIbrahim1/MoStreamExtensions",
         "fileSize": 16939,
         "status": 1,
         "language": "ar",
@@ -116,7 +116,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "ShofFreeProvider",
         "url": "https://github.com/MhmdIbrahim1/MoStreamExtensions/master//FajerShowProvider.cs3",
         "name": "FajerShowProvider"
