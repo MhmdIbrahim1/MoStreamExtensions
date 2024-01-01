@@ -64,25 +64,6 @@
         "name": "Server1"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MhmdIbrahim1/MoStreamExtensions",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "MoApps"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Shoffree",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/ShoffreeProvider.cs3",
-        "name": "ShoffreeProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
@@ -100,5 +81,25 @@
         "internalName": "ArabSeedProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
         "name": "ArabSeedProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13332,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "AnimeBlkomProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
+        "name": "AnimeBlkomProvider"
     }
 ]
