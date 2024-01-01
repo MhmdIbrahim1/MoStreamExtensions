@@ -39,7 +39,7 @@
         "version": 20,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/TimefourTv.cs3",
+        "url": "https://raw.githubusercontent.com/MoStreamExtensions/master/TimefourTv.cs3",
         "name": "Sports"
     },
     {
@@ -60,7 +60,7 @@
         ],
         "version": 7,
         "internalName": "FaselHD",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/FaselHDProvider.cs3",
+        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/FaselHDProvider.cs3",
         "name": "Server1"
     },
     {
@@ -105,7 +105,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "repositoryUrl": "https://github.com/yoyzo/arab",
         "fileSize": 16939,
         "status": 1,
         "language": "ar",
@@ -118,7 +118,7 @@
         ],
         "version": 5,
         "internalName": "ShofFreeProvider",
-        "url": "https://github.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master//FajerShowProvider.cs3",
+        "url": "https://github.com/MhmdIbrahim1/MoStreamExtensions/master//FajerShowProvider.cs3",
         "name": "FajerShowProvider"
     }
 ]
