@@ -66,12 +66,12 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "repositoryUrl": "https://github.com/MhmdIbrahim1/MoStreamExtensions",
         "fileSize": 16939,
         "status": 1,
         "language": "ar",
         "authors": [
-            "KingSlayer_007"
+            "MoApps"
         ],
         "tvTypes": [
             "TvSeries",
