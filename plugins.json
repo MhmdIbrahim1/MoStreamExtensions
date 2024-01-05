@@ -116,29 +116,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "SagaProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
         "name": "SagaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 22404,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live",
-            "TvSeries"
-        ],
-        "version": 23,
-        "internalName": "TimefourTv",
-        "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/MoStreamExtensions/master/TimefourTv.cs3",
-        "name": "Sports"
     }
 ]
