@@ -23,6 +23,26 @@
         "name": "SoraStream"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 22404,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Live",
+            "TvSeries"
+        ],
+        "version": 23,
+        "internalName": "TimefourTv",
+        "description": "Sport Live Stream",
+        "url": "https://raw.githubusercontent.com/MoStreamExtensions/master/TimefourTv.cs3",
+        "name": "Sports"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
@@ -63,26 +83,6 @@
         "name": "ArabSeedProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 22404,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live",
-            "TvSeries"
-        ],
-        "version": 23,
-        "internalName": "TimefourTv",
-        "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/MoStreamExtensions/master/TimefourTv.cs3",
-        "name": "Sports"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
@@ -101,24 +101,5 @@
         "internalName": "AnimeBlkomProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "SagaProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
-        "name": "SagaProvider"
     }
 ]
