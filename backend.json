@@ -3,6 +3,6 @@
     "description": "MoStream Repo backup",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/MhmdIbrahim1/cloudstream-extensions-hexatedd/master/plugins.json"
+        "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/plugins.json"
     ]
 }
