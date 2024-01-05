@@ -45,7 +45,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 16194,
         "status": 1,
         "language": "ar",
@@ -58,10 +58,10 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 30,
-        "internalName": "FaselHD",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/FaselHDProvider.cs3",
-        "name": "FaselHD"
+        "version": 9,
+        "internalName": "FaselHDProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
