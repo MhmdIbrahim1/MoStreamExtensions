@@ -70,14 +70,13 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "MoApps"
+            "Hexated"
         ],
         "tvTypes": [
             "Live",
-            "TvSeries",
-            "Movie",
+            "TvSeries"
         ],
-        "version": 24,
+        "version": 23,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
         "url": "https://raw.githubusercontent.com/MoStreamExtensions/master/TimefourTv.cs3",
