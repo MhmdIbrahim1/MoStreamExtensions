@@ -103,7 +103,7 @@
         "name": "AnimeBlkomProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww.tuktukcima.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 13531,
@@ -116,9 +116,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
-        "internalName": "SagaProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
-        "name": "SagaProvider"
+        "version": 3,
+        "internalName": "ToktokProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/Toktok.cs3",
+        "name": "ToktokProvider"
     }
 ]
