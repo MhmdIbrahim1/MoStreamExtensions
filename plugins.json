@@ -96,9 +96,9 @@
             "AnimeMovie",
             "OVA"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "AnimeBlkomProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeBlkomProvider.cs3",
+        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
     },
     {
