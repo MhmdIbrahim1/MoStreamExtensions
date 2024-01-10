@@ -35,7 +35,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 26,
+        "version": 27,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
         "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/TimefourTv.cs3",
