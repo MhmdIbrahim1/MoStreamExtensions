@@ -92,6 +92,8 @@
             "kingslayer_007"
         ],
         "tvTypes": [
+            "TvSeries",
+            "Movie",
             "Anime",
             "AnimeMovie",
             "OVA"
