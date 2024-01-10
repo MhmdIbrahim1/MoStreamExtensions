@@ -38,7 +38,7 @@
         "version": 23,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/MoStreamExtensions/master/TimefourTv.cs3",
+        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/TimefourTv.cs3",
         "name": "Sports"
     },
     {
@@ -89,7 +89,7 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "MoApps"
         ],
         "tvTypes": [
             "TvSeries",
@@ -98,7 +98,7 @@
             "AnimeMovie",
             "OVA"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "AnimeBlkomProvider",
         "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
