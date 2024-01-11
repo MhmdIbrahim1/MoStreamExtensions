@@ -36,7 +36,7 @@
             "TvSeries"
         ],
         "version": 30,
-        "internalName": "TimefourTv",
+        "internalName": "Live Tv Sport",
         "description": "Sport Live Stream",
         "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/EgyDeadProvider.cs3",
         "name": "Sports"
@@ -77,7 +77,7 @@
             "AnimeMovie",
             "OVA"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "AnimeBlkomProvider",
         "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
