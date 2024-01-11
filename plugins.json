@@ -35,32 +35,11 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 29,
+        "version": 30,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/TimefourTv.cs3",
+        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/EgyDeadProvider.cs3",
         "name": "Sports"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "MoApps"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 19,
-        "internalName": "FaselHD",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/FaselHDProvider.cs3",
-        "name": "FaselHD"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
