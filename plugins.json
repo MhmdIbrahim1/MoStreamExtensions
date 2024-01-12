@@ -83,6 +83,27 @@
         "name": "AnimeBlkomProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MoApps"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 10,
+        "internalName": "FaselHDProvider",
+        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
