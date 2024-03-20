@@ -143,5 +143,24 @@
     "description": "This pack contains WitAnime",
     "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/Anime4upPack.cs3",
     "name": "WtiAnime"
+},{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "fileSize": 19538,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "kingslayer_007"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime"
+    ],
+    "version": 12,
+    "internalName": "MyCimaProvider",
+    "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
+    "name": "MyCimaProvider"
 }
 ]
