@@ -143,7 +143,45 @@
     "description": "This pack contains WitAnime",
     "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/Anime4upPack.cs3",
     "name": "WtiAnime"
-},{
+},
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "FajerShowProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/FajerShowProvider.cs3",
+        "name": "FajerShowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 20624,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "AnimeiatProvider",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
+    },
+    {
     "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",
