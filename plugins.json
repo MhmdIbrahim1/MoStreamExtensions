@@ -85,25 +85,6 @@
         "name": "FaselHDProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13531,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "KingSlayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "SagaProvider",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/SagaProvider.cs3",
-        "name": "SagaProvider"
-    },
-    {
     "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/aymanbest/Arabico",
@@ -163,43 +144,24 @@
         "name": "AnimeiatProvider"
     },
     {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 19538,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "kingslayer_007"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie",
-        "Anime"
-    ],
-    "version": 12,
-    "internalName": "MyCimaProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/MyCimaProvider.cs3",
-    "name": "MyCimaProvider"
-},
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cinema.365ar.show&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 16939,
+        "repositoryUrl": "https://github.com/ImZaw/cloudstream-extensions-arabic",
+        "fileSize": 13693,
         "status": 1,
         "language": "ar",
         "authors": [
-            "kingslayer_007"
+            "MoApps"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie",
-            "Anime"
+            "Anime",
+            "Cartoon"
         ],
-        "version": 5,
-        "internalName": "365 SHOW",
-        "url": "https://github.com/aymanbest/Arabico/raw/main/build/365.cs3",
-        "name": "365 SHOW"
+        "version": 4,
+        "internalName": "AkwamProvider",
+        "url": "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/AkwamProvider.cs3",
+        "name": "AkwamProvider"
     }
 ]
