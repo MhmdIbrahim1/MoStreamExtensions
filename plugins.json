@@ -85,28 +85,6 @@
         "name": "FaselHDProvider"
     },
     {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
-    "fileSize": 15389,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "MoApps"
-    ],
-    "tvTypes": [
-        "Anime",
-        "AnimeMovie",
-        "Others",
-        "TvSeries"
-    ],
-    "version": 5,
-    "internalName": "WitAnime",
-    "description": "This pack contains WitAnime",
-    "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/Anime4upPack.cs3",
-    "name": "WtiAnime"
-},
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
