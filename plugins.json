@@ -42,28 +42,6 @@
         "name": "Sports"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/Arabico",
-        "fileSize": 13332,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "MoApps"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AnimeMovie",
-            "OVA"
-        ],
-        "version": 14,
-        "internalName": "AnimeBlkomProvider",
-        "url": "https://raw.githubusercontent.com/MhmdIbrahim1/MoStreamExtensions/master/AnimeBlkomProvider.cs3",
-        "name": "AnimeBlkomProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
