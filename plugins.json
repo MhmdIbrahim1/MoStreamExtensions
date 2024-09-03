@@ -178,5 +178,24 @@
         "internalName": "ArabSeedProvider",
         "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
         "name": "ArabSeedProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/mangadex.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 46526,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "Other"
+        ],
+        "version": 11,
+        "internalName": "MangaDex",
+        "description": "Read Manga from MangaDex",
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/MangaDex.cs3",
+        "name": "MangaDex"
     }
 ]
